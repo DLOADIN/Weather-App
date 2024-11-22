@@ -37,11 +37,9 @@ The app utilizes the **Interactive Weather Map API** to fetch real-time weather 
 
 ## Setup and Usage 🖥️
 
-1. Clone this repository:
-   ```bash ```terminal
-   git clone https://github.com/DLOADIN/weather-app.git
-   cd weather-app
-   vi index.html
+1. Clone this repository: git clone https://github.com/DLOADIN/weather-app.git
+2. cd weather-app
+3. vi index.html
 
 ## Usage
 Enter a city name in the input box to get the current weather. How It Works 🔧 The user enters a city name into the search bar. The app sends an API request to the Interactive Weather Map API. The API returns weather details such as temperature, weather conditions, wind speed, etc. The app dynamically displays the results on the webpage.
