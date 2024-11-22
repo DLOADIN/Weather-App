@@ -52,3 +52,4 @@ Enter a city name in the input box to get the current weather. How It Works 🔧
 
 ## Acknowledgements.
 🙌 Interactive Weather Map API for providing the weather data. ThunderClient for API testing during development. Open-source resources for inspiration and support.
+
