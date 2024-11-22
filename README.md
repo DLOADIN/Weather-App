@@ -43,14 +43,14 @@ The app utilizes the **Interactive Weather Map API** to fetch real-time weather 
    cd weather-app
    vi index.html
 
-##Usage
+## Usage
 Enter a city name in the input box to get the current weather. How It Works 🔧 The user enters a city name into the search bar. The app sends an API request to the Interactive Weather Map API. The API returns weather details such as temperature, weather conditions, wind speed, etc. The app dynamically displays the results on the webpage.
 
-##Future Enhancements 🌟 
+## Future Enhancements 🌟 
 🌦️Hourly Forecast: Add hourly weather updates for the searched city. 
 📍Location-Based Weather: Use geolocation to fetch the user's current location and display the weather. 
 🎨Improved UI/UX: Add animations and more interactive elements. 
 🗺️Weather Map: Integrate a map to visualize weather conditions.
 
-##Acknowledgements.
+## Acknowledgements.
 🙌 Interactive Weather Map API for providing the weather data. ThunderClient for API testing during development. Open-source resources for inspiration and support.
